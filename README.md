@@ -3,5 +3,5 @@ Designed and developed a Paint Application using Python PyQt5 GUI Framework.
 
 ## Screenshot:
 
-![image](https://user-images.githubusercontent.com/78471553/139436467-8be92f22-0e26-4207-b297-25fcd142e027.png)
+![image](https://user-images.githubusercontent.com/78471553/139439388-1d14da30-960d-4ee9-b680-8dc9d4eae4ee.png)
 
